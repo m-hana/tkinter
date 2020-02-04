@@ -9,7 +9,7 @@ from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.title('runrunrun')
+root.title('ブランチのテスト')
 
 frame1 = ttk.Frame(
     root,
