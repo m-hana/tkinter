@@ -9,7 +9,7 @@ from tkinter import *
 from tkinter import ttk
 
 root = Tk()
-root.title('Button Example')
+root.title('runrunrun')
 
 frame1 = ttk.Frame(
     root,
